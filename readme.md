@@ -1,1 +1,1 @@
-# Realtime analytics application with Socket.io, Node.jsa and Express
+# Realtime analytics application with Socket.io, Node.js and Express
